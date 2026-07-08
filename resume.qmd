@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: My CV
 ---
 # Kona Keawekane
 Student of BYU-Idaho, Programmer
@@ -12,7 +12,7 @@ Student of BYU-Idaho, Programmer
 
 ## About Me
 
-    I am a student currently enrolled in BYU-Idaho studying computer science. I love cars, RC, sports, and computer programming, however most important to me is the gospel of Jesus Christ and my family. I have come to appreciate the growth and development of computing technology over the years and have grown a personal drive to continue innovating on what can be done with computers. I constantly seek to do things that have never been done before and improve upon the status quo. In several of my own projects I have taken an iterative approach to consistently improve and build better and more capable programs.
+I am a student currently enrolled in BYU-Idaho studying computer science. I love cars, RC, sports, and computer programming, however most important to me is the gospel of Jesus Christ and my family. I have come to appreciate the growth and development of computing technology over the years and have grown a personal drive to continue innovating on what can be done with computers. I constantly seek to do things that have never been done before and improve upon the status quo. In several of my own projects I have taken an iterative approach to consistently improve and build better and more capable programs.
 
 ### Experience
 
