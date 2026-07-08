@@ -22,7 +22,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "My Resume"
-        file: resume.qmd
+        file: resume.qmd # the link here if making a documet resume
       - text: "Data Cleansing"
         file: cleansing.qmd
       - text: "Data Exploration"
@@ -177,7 +177,7 @@ format:
   html:
     theme: #see this link to customize the theme with css (https://quarto.org/docs/output-formats/html-themes.html#dark-mode)
       light: lumen # more themes can be found [here](https://quarto.org/docs/output-formats/html-themes.html)
-      dark: Lux
+      dark: lux
       #light: cosmo
       #dark: [cosmo, theme-dark.scss]
     css: styles.css
