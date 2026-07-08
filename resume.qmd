@@ -6,7 +6,7 @@ title: My CV
 Student of BYU-Idaho, Programmer
 
 <div id="webaddress">
-<a href="konakeawekane@gmail.com">konakeawekane@gmail.com</a>
+    konakeawekane@gmail.com
 </div>
 
 
@@ -34,28 +34,28 @@ I am a student currently enrolled in BYU-Idaho studying computer science. I love
 ### Projects
 
 - Stochastic Viewspace Global Illumination
-    - (Inspired by this paper: https://dl.acm.org/doi/10.1145/3451268)
-    - https://konakeawekane.github.io/Stochastic-Cubemap-Global-Illumination/
+    - (Inspired by this paper: <a href="https://dl.acm.org/doi/10.1145/3451268">https://dl.acm.org/doi/10.1145/3451268</a>)
+    - <a href="https://konakeawekane.github.io/Stochastic-Cubemap-Global-Illumination">https://konakeawekane.github.io/Stochastic-Cubemap-Global-Illumination</a>
 
 - Clay 3D 
     - (A web based 3D game engine with documentation built mostly with Google's Gemini 3 pro)
-    - https://konakeawekane.github.io/Clay-3D/
+    - <a href="https://konakeawekane.github.io/Clay-3D/">https://konakeawekane.github.io/Clay-3D/</a>
 
 - Web Audio Spatialization Renderer
     - (Tool for modeling Acoustic effects of 3D environments on sound files)
-    - https://konakeawekane.github.io/Audio-Spatialization-Renderer/
+    - <a href="https://konakeawekane.github.io/Audio-Spatialization-Renderer/">https://konakeawekane.github.io/Audio-Spatialization-Renderer/</a>
 
 - Custom extensions for the scratch editor 
     - (Integration for compute shaders, Integration for Web Audio API)
-    - https://github.com/konakeawekane/scratch-extentions
+    - <a href="https://github.com/konakeawekane/scratch-extentions">https://github.com/konakeawekane/scratch-extentions</a>
 
 - Dream Car
     - (Small web game emphasizing creativity and limitless creation)
-    - https://github.com/konakeawekane/Dream-Car
+    - <a href="https://github.com/konakeawekane/Dream-Car">https://github.com/konakeawekane/Dream-Car</a>
 
 - Rust CPU 3D Graphics 
     - (current educational project)
-    - https://github.com/konakeawekane/my_engine
+    - <a href="https://github.com/konakeawekane/my_engine">https://github.com/konakeawekane/my_engine</a>
 
 <!-- ### Footer
 
